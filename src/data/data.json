@@ -1,0 +1,512 @@
+[
+  {
+    "SlNo": 1,
+    "JobTitle": "Indian Administrative Service (IAS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (All India Service)",
+    "PrimaryJobRoleFocus": "Policy making & General Administration",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "As an **IAS Officer**, my job is to shape the future of a region, sometimes an entire district! I formulate and implement government policies, manage revenue, oversee elections, and coordinate all administrative departments. I am the collector and the magistrate—the main decision-maker ensuring public welfare and smooth governance."
+  },
+  {
+    "SlNo": 2,
+    "JobTitle": "Indian Police Service (IPS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (All India Service)",
+    "PrimaryJobRoleFocus": "Law & Order Enforcement",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I'm an **IPS Officer**, tasked with upholding the law. My work involves preventing and investigating crimes, maintaining public order, and commanding thousands of police personnel. It's a challenging role that requires quick decision-making under pressure to ensure the safety and security of the citizens."
+  },
+  {
+    "SlNo": 3,
+    "JobTitle": "Indian Foreign Service (IFS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Diplomacy and Foreign Relations",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "As an **IFS Officer**, I represent India on the global stage. I serve in embassies and consulates abroad, working to strengthen India's ties with other countries, negotiating treaties, and providing consular services to Indian citizens living overseas. It's a life of diplomacy and international travel."
+  },
+  {
+    "SlNo": 4,
+    "JobTitle": "Indian Revenue Service (IT/C&CE)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Tax Collection & Enforcement",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I work for the **IRS**, ensuring the financial health of the nation. Whether it's managing Income Tax (Direct Taxes) or Customs and GST (Indirect Taxes), my core responsibility is enforcing tax laws, investigating tax evasion, and ensuring fair revenue collection from individuals and corporations."
+  },
+  {
+    "SlNo": 5,
+    "JobTitle": "Indian Audit & Accounts Service (IA&AS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Government Auditing and Accounts",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I am an **IA&AS Officer** working under the Comptroller and Auditor General (CAG). I act as the government's financial watchdog. My job is to audit the accounts and expenditure of Central and State governments to ensure public funds are being used efficiently and legally."
+  },
+  {
+    "SlNo": 6,
+    "JobTitle": "Indian Civil Accounts Service (ICAS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Financial Accounting & Payment",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I manage the flow of government money. As an **ICAS Officer**, I handle the accounting, payment, and internal audit functions for various ministries. Essentially, I ensure government employees and vendors get paid, and that the financial records are accurate and transparent."
+  },
+  {
+    "SlNo": 7,
+    "JobTitle": "Indian Defence Accounts Service (IDAS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Defence Finance & Accounts",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "My responsibility lies in the **financial management of the Defence Forces**. As an **IDAS Officer**, I handle the budget, payments, and accounting for the Army, Navy, and Air Force. It's about ensuring every rupee spent on national security is accounted for."
+  },
+  {
+    "SlNo": 8,
+    "JobTitle": "Indian Corporate Law Service (ICLS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Company Law Enforcement",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "As an **ICLS Officer**, I work for the Ministry of Corporate Affairs, enforcing the Companies Act. I deal with the regulation of corporate houses, investigate serious financial frauds, and ensure that companies adhere to legal and ethical standards."
+  },
+  {
+    "SlNo": 9,
+    "JobTitle": "Indian Trade Service (ITrS)",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Foreign Trade Policy",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I shape India's **foreign trade policy**. As an **ITrS Officer**, I analyze global trade patterns, negotiate trade agreements with other countries, and help formulate rules that promote exports and manage imports for the economic growth of the country."
+  },
+  {
+    "SlNo": 10,
+    "JobTitle": "Indian Forest Service (IFoS)",
+    "RecruitingBody": "UPSC-IFoS Exam",
+    "GroupGrade": "Group A (All India Service)",
+    "PrimaryJobRoleFocus": "Forest and Wildlife Management",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I am an **IFoS Officer**, dedicated to protecting India's natural resources. My job involves managing forests, conserving wildlife, ensuring environmental protection, and implementing forestry projects at the divisional level. I balance ecological needs with tribal welfare and resource utilization."
+  },
+  {
+    "SlNo": 11,
+    "JobTitle": "Assistant Commandant (CAPF)",
+    "RecruitingBody": "UPSC-CAPF Exam",
+    "GroupGrade": "Group A (Gazetted)",
+    "PrimaryJobRoleFocus": "Operational Command in Paramilitary Forces",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "25 Years",
+    "JobDescription_FirstPerson": "As an **Assistant Commandant**, I am a Group 'A' officer who commands a company of soldiers in forces like BSF, CRPF, or CISF. My duty is operational—protecting borders, securing critical infrastructure, or assisting state police in maintaining internal security."
+  },
+  {
+    "SlNo": 12,
+    "JobTitle": "Geologist (Group A)",
+    "RecruitingBody": "UPSC-Geo Scientist Exam",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Geological Survey and Research",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "I work as a **Geologist** in the Geological Survey of India. I study the earth's structure, conduct field research to locate mineral resources, assess ground water, and map seismic zones. My research provides the fundamental data for infrastructure and resource planning."
+  },
+  {
+    "SlNo": 13,
+    "JobTitle": "Assistant Director (IES/ISS)",
+    "RecruitingBody": "UPSC-IES/ISS Exam",
+    "GroupGrade": "Group A (Central Service)",
+    "PrimaryJobRoleFocus": "Economic/Statistical Analysis & Planning",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am an **Economist/Statistician** for the government. My role is to analyze complex data, forecast economic trends, and provide statistical advice that forms the foundation for budget, planning, and policy decisions in ministries like Finance or NITI Aayog."
+  },
+  {
+    "SlNo": 14,
+    "JobTitle": "DANICS Officer",
+    "RecruitingBody": "UPSC-CSE",
+    "GroupGrade": "Group B (Central Service)",
+    "PrimaryJobRoleFocus": "Administration in Union Territories",
+    "StartingBasicPay": "₹47,600 (Level 8)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "As a **DANICS Officer**, my work is similar to state civil services, but specifically focused on Union Territories like Delhi. I hold key administrative posts, manage local government offices, and ensure effective implementation of central policies at the local level."
+  },
+  {
+    "SlNo": 15,
+    "JobTitle": "Assistant Section Officer (ASO)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Administrative Support in Ministries (e.g., MEA, CSS)",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I work as an **ASO** in the Central Secretariat. My job is a desk-based administrative role: drafting policy notes, maintaining files, and overseeing the routine work of the section. It’s where the actual decisions of the Ministry are prepared and documented."
+  },
+  {
+    "SlNo": 16,
+    "JobTitle": "Income Tax Inspector (ITI)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group C (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Enforcement & Assessment of Direct Taxes",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am an **Income Tax Inspector**. I handle the crucial task of assessing tax returns and ensuring individuals and businesses pay their fair share of direct taxes. My work is split between desk assessment and occasional field duties like conducting surveys or joining raid teams."
+  },
+  {
+    "SlNo": 17,
+    "JobTitle": "Inspector (Central Excise)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Enforcement & Assessment of Indirect Taxes (GST)",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I work for Customs and Central Excise, mainly dealing with GST and Customs duty. My job involves checking compliance, preventing smuggling, assessing taxable goods/services, and ensuring the smooth flow of indirect tax revenue for the Central Government."
+  },
+  {
+    "SlNo": 18,
+    "JobTitle": "Sub-Inspector (CBI)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Criminal & Anti-Corruption Investigation",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "As a **Sub-Inspector in the CBI**, I am on the front lines of high-profile cases. I investigate corruption, economic crimes, and serious conventional crimes, collecting evidence, interrogating suspects, and preparing robust charge sheets for prosecution."
+  },
+  {
+    "SlNo": 19,
+    "JobTitle": "Assistant Enforcement Officer (AEO)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Enforcement under the Directorate of Enforcement",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I work for the Enforcement Directorate (ED). My job as an **AEO** is critical: I investigate violations of economic laws like PMLA (Prevention of Money Laundering Act), trace illegal assets, and handle the seizure of properties acquired through crime."
+  },
+  {
+    "SlNo": 20,
+    "JobTitle": "Assistant Audit Officer (AAO)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Gazetted)",
+    "PrimaryJobRoleFocus": "Auditing under C&AG",
+    "StartingBasicPay": "₹47,600 (Level 8)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am the highest entry-level post through SSC. As an **AAO** under the CAG, I manage the audit of government expenditure. I lead teams, prepare official audit reports, and ensure financial accountability across central government departments."
+  },
+  {
+    "SlNo": 21,
+    "JobTitle": "Junior Statistical Officer (JSO)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Data Collection & Statistical Analysis",
+    "StartingBasicPay": "₹35,400 (Level 6)",
+    "MaxAgeLimit_General": "32 Years",
+    "JobDescription_FirstPerson": "My work as a **JSO** involves numbers and data. I collect, compile, and analyze statistical information from various sectors, which the government then uses to assess the impact of schemes and formulate accurate future planning policies."
+  },
+  {
+    "SlNo": 22,
+    "JobTitle": "Divisional Accountant",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group B (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Maintaining Divisional Accounts (C&AG)",
+    "StartingBasicPay": "₹35,400 (Level 6)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am a **Divisional Accountant** posted in the Public Works Department (PWD). I am responsible for auditing the bills, budgets, and expenditure of the engineering division, ensuring that all construction and maintenance expenses are legal and financially compliant."
+  },
+  {
+    "SlNo": 23,
+    "JobTitle": "Senior Secretariat Assistant (SSA)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group C (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Upper-level Clerical Work",
+    "StartingBasicPay": "₹29,200 (Level 5)",
+    "MaxAgeLimit_General": "27 Years",
+    "JobDescription_FirstPerson": "As an **SSA**, I manage the routine clerical and administrative tasks in a central government office. My duties include processing correspondence, managing files, and providing support to the Assistant Section Officers (ASOs) and other senior staff."
+  },
+  {
+    "SlNo": 24,
+    "JobTitle": "Tax Assistant (CBDT/CBIC)",
+    "RecruitingBody": "SSC-CGL",
+    "GroupGrade": "Group C (Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Clerical & Technical Support in Tax Offices",
+    "StartingBasicPay": "₹25,500 (Level 4)",
+    "MaxAgeLimit_General": "27 Years",
+    "JobDescription_FirstPerson": "I work in the tax department as a **Tax Assistant**. My job involves data entry, processing tax returns, issuing refunds, and general clerical support. I work directly under the Inspectors and help maintain taxpayer records accurately."
+  },
+  {
+    "SlNo": 25,
+    "JobTitle": "Data Entry Operator (DEO)",
+    "RecruitingBody": "SSC-CHSL",
+    "GroupGrade": "Group C",
+    "PrimaryJobRoleFocus": "Data processing and Computer Work",
+    "StartingBasicPay": "₹25,500 (Level 4)",
+    "MaxAgeLimit_General": "27 Years",
+    "JobDescription_FirstPerson": "I am a **DEO** in a central government office. My main responsibility is high-speed and accurate data entry, managing electronic records, and creating reports. I ensure that the department's digital records are up-to-date and easily accessible."
+  },
+  {
+    "SlNo": 26,
+    "JobTitle": "Postal Assistant (PA) / Sorting Assistant (SA)",
+    "RecruitingBody": "SSC-CHSL",
+    "GroupGrade": "Group C",
+    "PrimaryJobRoleFocus": "Mail Operations & Clerical Duties in Post Office",
+    "StartingBasicPay": "₹25,500 (Level 4)",
+    "MaxAgeLimit_General": "27 Years",
+    "JobDescription_FirstPerson": "I work for India Post as a **Postal/Sorting Assistant**. I handle customer queries, sell stamps and postal products, manage financial services like saving accounts, and ensure the efficient sorting and routing of mail across the country."
+  },
+  {
+    "SlNo": 27,
+    "JobTitle": "Junior Secretariat Assistant (JSA)",
+    "RecruitingBody": "SSC-CHSL",
+    "GroupGrade": "Group C",
+    "PrimaryJobRoleFocus": "Clerical, Typing, and File Management",
+    "StartingBasicPay": "₹19,900 (Level 2)",
+    "MaxAgeLimit_General": "27 Years",
+    "JobDescription_FirstPerson": "As a **JSA**, I perform the basic clerical functions in a government office. This includes typing, drafting simple letters, managing physical and digital files, and ensuring the smooth flow of documents within the secretariat."
+  },
+  {
+    "SlNo": 28,
+    "JobTitle": "Lower Division Clerk (LDC)",
+    "RecruitingBody": "SSC-CHSL",
+    "GroupGrade": "Group C",
+    "PrimaryJobRoleFocus": "General Clerical and Administrative Support",
+    "StartingBasicPay": "₹19,900 (Level 2)",
+    "MaxAgeLimit_General": "27 Years",
+    "JobDescription_FirstPerson": "I am an **LDC**, providing foundational administrative support. My tasks involve managing office correspondence, maintaining registers, compiling simple data reports, and assisting senior staff with routine daily tasks."
+  },
+  {
+    "SlNo": 29,
+    "JobTitle": "Probationary Officer (PO)",
+    "RecruitingBody": "IBPS PO",
+    "GroupGrade": "Officer (JMGS-I)",
+    "PrimaryJobRoleFocus": "Entry-level Bank Managerial & Supervisory Role",
+    "StartingBasicPay": "₹48,480 (Basic Pay)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am a **Probationary Officer** at a public sector bank. I'm trained to handle everything: supervising clerical staff, approving loans, managing customer accounts, and marketing financial products. It's a stepping stone to becoming a Branch Manager."
+  },
+  {
+    "SlNo": 30,
+    "JobTitle": "Clerk / Junior Associate",
+    "RecruitingBody": "IBPS Clerk",
+    "GroupGrade": "Clerical",
+    "PrimaryJobRoleFocus": "Frontline Customer Service and Cash Handling",
+    "StartingBasicPay": "₹19,900 (Basic Pay - Varies)",
+    "MaxAgeLimit_General": "28 Years",
+    "JobDescription_FirstPerson": "I am a bank **Clerk**, the face of the bank for many customers. I handle cash transactions, clear cheques, open accounts, issue debit cards, and resolve routine customer queries. My job ensures the daily operations of the branch run smoothly."
+  },
+  {
+    "SlNo": 31,
+    "JobTitle": "IT Officer (Scale I)",
+    "RecruitingBody": "IBPS SO",
+    "GroupGrade": "Specialist Officer",
+    "PrimaryJobRoleFocus": "Managing Bank's IT Systems and Security",
+    "StartingBasicPay": "₹36,000 (Old Basic Pay - Revised to ₹48,480)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "As an **IT Officer**, I am responsible for the technology backbone of the bank. I manage network security, maintain banking software, handle server administration, and ensure all digital operations are secure and functional for both staff and customers."
+  },
+  {
+    "SlNo": 32,
+    "JobTitle": "Law Officer (Scale I)",
+    "RecruitingBody": "IBPS SO",
+    "GroupGrade": "Specialist Officer",
+    "PrimaryJobRoleFocus": "Handling Legal Matters and Compliance",
+    "StartingBasicPay": "₹36,000 (Old Basic Pay - Revised to ₹48,480)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I serve as the bank's in-house legal expert. My job as a **Law Officer** is to handle all legal notices, represent the bank in court cases, draft legal agreements (especially for loans), and ensure the bank complies with all financial regulations."
+  },
+  {
+    "SlNo": 33,
+    "JobTitle": "Agriculture Field Officer (AFO)",
+    "RecruitingBody": "IBPS SO",
+    "GroupGrade": "Specialist Officer",
+    "PrimaryJobRoleFocus": "Agricultural Loan Promotion and Appraisal",
+    "StartingBasicPay": "₹36,000 (Old Basic Pay - Revised to ₹48,480)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am an **AFO**, focused on serving the rural sector. I go into the field to assess agricultural land, appraise loan proposals for farmers, and promote bank schemes related to farming, rural development, and livestock management."
+  },
+  {
+    "SlNo": 34,
+    "JobTitle": "RRB Officer Scale I (Assistant Manager)",
+    "RecruitingBody": "IBPS RRB",
+    "GroupGrade": "Officer (JMGS-I)",
+    "PrimaryJobRoleFocus": "Managerial Role in Regional Rural Banks",
+    "StartingBasicPay": "₹48,480 (Basic Pay)",
+    "MaxAgeLimit_General": "30 Years",
+    "JobDescription_FirstPerson": "I am an **Assistant Manager** in a Regional Rural Bank. My focus is on rural finance—approving micro-loans, implementing government schemes for farmers and small businesses, and managing a small branch's operations in a semi-urban or rural area."
+  },
+  {
+    "SlNo": 35,
+    "JobTitle": "RRB Office Assistant (Multipurpose)",
+    "RecruitingBody": "IBPS RRB",
+    "GroupGrade": "Clerical",
+    "PrimaryJobRoleFocus": "Customer Service & Administrative Work in RRBs",
+    "StartingBasicPay": "₹19,900 (Basic Pay - Varies)",
+    "MaxAgeLimit_General": "28 Years",
+    "JobDescription_FirstPerson": "I work as a **Multipurpose Assistant** at an RRB. I handle customer counter duties, cash management, processing transactions, and providing administrative support within the bank branch, specifically serving the local rural community."
+  },
+  {
+    "SlNo": 36,
+    "JobTitle": "Station Master (SM)",
+    "RecruitingBody": "RRB-NTPC (Graduate)",
+    "GroupGrade": "Group C (Level 6)",
+    "PrimaryJobRoleFocus": "Station Operations & Staff Management",
+    "StartingBasicPay": "₹35,400 (Level 6)",
+    "MaxAgeLimit_General": "36 Years",
+    "JobDescription_FirstPerson": "I am the **Station Master**—the head of the railway station. My core duty is ensuring the safe and timely movement of all trains, managing signals, supervising station staff, and handling any operational emergencies or public issues."
+  },
+  {
+    "SlNo": 37,
+    "JobTitle": "Goods Train Manager",
+    "RecruitingBody": "RRB-NTPC (Graduate)",
+    "GroupGrade": "Group C (Level 5)",
+    "PrimaryJobRoleFocus": "Safety & Logistics of Goods Trains",
+    "StartingBasicPay": "₹29,200 (Level 5)",
+    "MaxAgeLimit_General": "36 Years",
+    "JobDescription_FirstPerson": "As a **Goods Train Manager**, I travel with the freight train, responsible for the safety of the goods and the train itself. I perform checks, communicate with the Station Master and Control Room, and maintain detailed logs of the journey."
+  },
+  {
+    "SlNo": 38,
+    "JobTitle": "Junior Account Assistant cum Typist (JAAT)",
+    "RecruitingBody": "RRB-NTPC (Graduate)",
+    "GroupGrade": "Group C (Level 5)",
+    "PrimaryJobRoleFocus": "Accounts & Finance Documentation",
+    "StartingBasicPay": "₹29,200 (Level 5)",
+    "MaxAgeLimit_General": "36 Years",
+    "JobDescription_FirstPerson": "I work in the Accounts Department of the Railways. My job as a **JAAT** involves processing railway employee claims, handling billing, maintaining expenditure ledgers, and preparing financial statements under the supervision of senior officers."
+  },
+  {
+    "SlNo": 39,
+    "JobTitle": "Senior Clerk cum Typist (SCT)",
+    "RecruitingBody": "RRB-NTPC (Graduate)",
+    "GroupGrade": "Group C (Level 5)",
+    "PrimaryJobRoleFocus": "Supervisory Clerical Work",
+    "StartingBasicPay": "₹29,200 (Level 5)",
+    "MaxAgeLimit_General": "36 Years",
+    "JobDescription_FirstPerson": "As a **Senior Clerk**, I supervise the work of junior clerks and handle more complex file work and correspondence in a Railway office. I ensure administrative tasks are completed accurately and on time, often dealing with establishment matters."
+  },
+  {
+    "SlNo": 40,
+    "JobTitle": "Commercial cum Ticket Clerk (CCTC)",
+    "RecruitingBody": "RRB-NTPC (10+2)",
+    "GroupGrade": "Group C (Level 3)",
+    "PrimaryJobRoleFocus": "Ticket Issuing & Commercial Duties",
+    "StartingBasicPay": "₹21,700 (Level 3)",
+    "MaxAgeLimit_General": "33 Years",
+    "JobDescription_FirstPerson": "I am a **Commercial cum Ticket Clerk**. I am primarily responsible for booking passenger tickets, handling cash at the counter, managing parcel and luggage bookings, and assisting the public with general commercial railway services."
+  },
+  {
+    "SlNo": 41,
+    "JobTitle": "Junior Clerk cum Typist (JCT)",
+    "RecruitingBody": "RRB-NTPC (10+2)",
+    "GroupGrade": "Group C (Level 2)",
+    "PrimaryJobRoleFocus": "General Clerical Work & Typing",
+    "StartingBasicPay": "₹19,900 (Level 2)",
+    "MaxAgeLimit_General": "33 Years",
+    "JobDescription_FirstPerson": "As a **Junior Clerk** in the Railways, I handle routine administrative support, including typing, filing, and managing office communications. I am the entry point for clerical work, ensuring basic documentation is correct and maintained."
+  },
+  {
+    "SlNo": 42,
+    "JobTitle": "Trains Clerk (TC)",
+    "RecruitingBody": "RRB-NTPC (10+2)",
+    "GroupGrade": "Group C (Level 2)",
+    "PrimaryJobRoleFocus": "Train Movement Documentation",
+    "StartingBasicPay": "₹19,900 (Level 2)",
+    "MaxAgeLimit_General": "33 Years",
+    "JobDescription_FirstPerson": "I am a **Trains Clerk**. My job is highly specific: I document and record the movement of trains within the section. I prepare and maintain the official documentation related to train departures, arrivals, and movement control, assisting the Station Master."
+  },
+  {
+    "SlNo": 43,
+    "JobTitle": "Sub-Divisional Magistrate (SDM) / Deputy Collector",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group A (State Gazetted)",
+    "PrimaryJobRoleFocus": "Revenue, Law & Order, and District Administration",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I am the **SDM** of a sub-division. I am the executive magistrate, dealing with both revenue collection and local law and order issues. I oversee all government functions in my area, ensuring schemes are delivered and public grievances are addressed."
+  },
+  {
+    "SlNo": 44,
+    "JobTitle": "Deputy Superintendent of Police (DSP)",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group A (State Gazetted)",
+    "PrimaryJobRoleFocus": "State Police Law & Order Management",
+    "StartingBasicPay": "₹56,100 (Level 10)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "As a **DSP**, I am a commanding officer in the state police force. I supervise several police stations, lead important investigations, manage major law and order situations, and ensure the safety and security of the public within my jurisdiction."
+  },
+  {
+    "SlNo": 45,
+    "JobTitle": "Block Development Officer (BDO)",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group B (State Gazetted)",
+    "PrimaryJobRoleFocus": "Rural Development & Scheme Implementation",
+    "StartingBasicPay": "₹47,600 (Level 8)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I am the **BDO**, focused entirely on rural development. I head the administrative setup of a Block, overseeing the planning and execution of all welfare and infrastructure schemes, and coordinating with village councils (Panchayats)."
+  },
+  {
+    "SlNo": 46,
+    "JobTitle": "Treasury Officer / Accounts Officer",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group B (State Gazetted)",
+    "PrimaryJobRoleFocus": "State Financial & Treasury Management",
+    "StartingBasicPay": "₹47,600 (Level 8)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I manage the state's finances at the district level. As a **Treasury Officer**, I handle all government receipts and payments, verify the accounts of various state departments, and ensure the physical security of the treasury."
+  },
+  {
+    "SlNo": 47,
+    "JobTitle": "Assistant Commissioner (Commercial Tax)",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group A/B (State Gazetted)",
+    "PrimaryJobRoleFocus": "State Tax Assessment and Enforcement",
+    "StartingBasicPay": "₹47,600 (Level 8)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I oversee the collection of state taxes, primarily the state component of GST. My role involves assessing tax liabilities for large businesses, conducting audits, and enforcing compliance to ensure the state government receives its due revenue."
+  },
+  {
+    "SlNo": 48,
+    "JobTitle": "Assistant Regional Transport Officer (ARTO)",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group B (State Gazetted)",
+    "PrimaryJobRoleFocus": "Vehicle Registration & Road Tax Enforcement",
+    "StartingBasicPay": "₹47,600 (Level 8)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I work for the **Regional Transport Office (RTO)**. As an **ARTO**, I manage vehicle registration, issue driving licenses, collect road tax, and enforce the Motor Vehicles Act to promote safety and regulate transport across the region."
+  },
+  {
+    "SlNo": 49,
+    "JobTitle": "Tehsildar",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group B (State Gazetted)",
+    "PrimaryJobRoleFocus": "Revenue Administration at Tehsil Level",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I am the chief revenue officer for a **Tehsil** (a sub-unit of a district). I oversee land records, settle land disputes, manage revenue collection, and issue various essential government certificates to the public."
+  },
+  {
+    "SlNo": 50,
+    "JobTitle": "Naib Tehsildar",
+    "RecruitingBody": "State PSC-PCS",
+    "GroupGrade": "Group C (State Non-Gazetted)",
+    "PrimaryJobRoleFocus": "Subordinate Revenue & Land Record Management",
+    "StartingBasicPay": "₹44,900 (Level 7)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "As a **Naib Tehsildar**, I assist the Tehsildar in all revenue functions. I perform field inspections, update land records, handle mutation (transfer of title), and act as a key figure in ensuring land ownership records are accurate."
+  },
+  {
+    "SlNo": 51,
+    "JobTitle": "Tax Assistant (State)",
+    "RecruitingBody": "State-Specific Exams",
+    "GroupGrade": "Group C",
+    "PrimaryJobRoleFocus": "Clerical Support in State Tax Departments",
+    "StartingBasicPay": "₹25,500 (Level 4)",
+    "MaxAgeLimit_General": "40 Years",
+    "JobDescription_FirstPerson": "I provide clerical and technical support in the state's Commercial Tax department. My job involves data entry, verifying sales figures, managing taxpayer files, and helping ensure that the local tax collection processes are efficient."
+  }
+]
