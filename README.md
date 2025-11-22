@@ -70,8 +70,3 @@ Advanced Filtering and Sorting: Implementing complex filters based on Recruiting
 
 Global Search: Integrating an efficient, client-side search function to filter jobs by JobTitle or keywords within the description.
 
-<<<<<<< HEAD
-User Personalization: Introducing a "Favorites" feature (leveraging a lightweight database solution) to allow authenticated users to save and track preferred job roles.
-=======
-User Personalization: Introducing a "Favorites" feature (leveraging a lightweight database solution) to allow authenticated users to save and track preferred job roles.
->>>>>>> cb5c36db23f81d6262153d4828e48c0186e9fdf3
